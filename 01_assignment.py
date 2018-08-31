@@ -256,7 +256,7 @@ class TestAssignment1(unittest.TestCase):
     def test_exercise11(self):
         print('Testing exercise 11')
         p = exercise11()
-        self.assertEqual(p, 3.141592653)
+        self.assertEqual(p, 3.1415926535)
 
     def test_exercise12(self):
         print('Testing exercise 12')
