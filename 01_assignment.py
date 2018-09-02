@@ -169,7 +169,7 @@ def exercise15():
 
 
 def exercise16():
-    # Implement pythogorean thereom and find the length of hypotenuse c given sides a and b. Select any numbers for and b. Use math.sqrt() for square root.
+    # Implement pythogorean thereom and find the length of hypotenuse c given sides a and b. Select any numbers for a and b. Use math.sqrt() for square root.
 
     # ------ Place code below here \/ \/ \/ ------
 
