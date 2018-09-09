@@ -122,7 +122,7 @@ def exercise10():
 
 
 def exercise11():
-    # Create a variable pi and set it to pi 10 decimal places out
+    # Create a variable pi and literally set it to pi 10 decimal places out
 
     # ------ Place code below here \/ \/ \/ ------
 
