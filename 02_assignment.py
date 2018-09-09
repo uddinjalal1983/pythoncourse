@@ -9,6 +9,7 @@ Assignment #2
 4. Unless explicitly stated, please do not import any additional libraries but feel free to use built-in Python packages
 5. Submissions must be a Python file and not a notebook file (i.e *.ipynb)
 6. Do not use global variables
+7. Make sure your work is committed to your master branch
 
 
 '''
