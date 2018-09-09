@@ -5,6 +5,8 @@ Assignment #2
 2. Run the associated test harness for a basic check on completeness
 3. To run unit tests simply use the below command after filling in all of the code:
     python 02_assignment.py
+  
+4. Unless explicitly stated, please do not import any additional libraries but feel free to use built-in Python packages
 
 
 '''
