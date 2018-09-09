@@ -112,7 +112,7 @@ def exercise09():
 
 
 def exercise10():
-    # Create 5 variables named factorN where N is the numbers 1 to 5 and set them 1 through 5 respectively. Create a variable called product that holds the product of the 5 variables
+    # Create 5 variables named factorN where N is the numbers 1 to 5 and set them to 1 through 5, respectively. Create a variable called product that holds the product of the 5 variables
 
     # ------ Place code below here \/ \/ \/ ------
 
