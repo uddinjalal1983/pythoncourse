@@ -34,7 +34,7 @@ def exercise01():
 
 
 def exercise02():
-    # Create a variable called name and set it to your first name.
+    # Create a string variable called name and set it to your first name.
 
     # ------ Place code below here \/ \/ \/ ------
 
@@ -44,7 +44,7 @@ def exercise02():
 
 
 def exercise03():
-    # Create a variable called sentence and assign it to an arbitrary sentence that contains at least 3 words
+    # Create a string variable called sentence and assign it to an arbitrary sentence that contains at least 3 words
 
     # ------ Place code below here \/ \/ \/ ------
 
@@ -54,7 +54,7 @@ def exercise03():
 
 
 def exercise04():
-    # Create two variables. The first variable is called first_name, the second is last_name. Set both variables to your first name and last name respectively.
+    # Create two string variables. The first variable is called first_name, the second is last_name. Set both variables to your first name and last name respectively.
 
     # ------ Place code below here \/ \/ \/ ------
 
